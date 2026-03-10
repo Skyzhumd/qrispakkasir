@@ -3,5 +3,5 @@ module.exports = {
     pakasirApiKey: "zj5awjF1251jfqJQsyapHU3qRYRNuX8t",
     pakasirSlug: "hosting-pterodactyl",
     adminId: "8521019587",
-    defaultAmount: 10000
+    defaultAmount: 100
 };
